@@ -1,7 +1,88 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Welcome</h1>
-<p>This is my Github website. It's currently a work in progress.</p>
-</body>
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="keywords" content="HTML, CSS" />
+    <meta name="description" content="" />
+    <title>Tennessene's GitHub Website</title>
+    <style>
+      body {
+        margin: 0px;
+      }
+      img {
+        height: 200px;
+        width: 200px;
+        border-radius: 100px;
+        object-fit: cover;
+        float: left;
+        margin-right: 10px;
+      }
+      video {
+        width: 400px;
+        border-radius: 10px;
+      }
+      .description {
+        font-weight: bold;
+      }
+      em {
+        color: darkgoldenrod;
+        font-style: normal;
+      }
+      table,
+      td,
+      th {
+        border: 1px solid grey;
+        border-collapse: collapse;
+        padding: 5px;
+      }
+
+      tfoot {
+        text-align: left;
+      }
+      .highlight {
+        background-color: yellowgreen;
+      }
+    </style>
+  </head>
+  <body>
+    <p><mark class="highlight">GitHub</mark> is awesome.</p>
+    <table>
+      <thead>
+        <tr>
+          <th colspan="2">Expenses</th>
+        </tr>
+        <tr>
+          <th>Category</th>
+          <th>Amount</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Marketing Junk</td>
+          <td>$100</td>
+        </tr>
+        <tr>
+          <td>Accounting</td>
+          <td>$200</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <th>Total</th>
+          <th>$300</th>
+        </tr>
+      </tfoot>
+    </table>
+    <img src="images/axolotl.png" alt="Axolotl" />
+    <p class="description">
+      My <em>awesome</em> test Github website. &copy; Anston Sorensen
+      <a href="about.html">About Me</a>
+      <a href="structuring.html">Click me to see HTML structuring</a>
+      <a href="typesofstyling.html">Click me to see CSS styling</a>
+      <video controls autoplay loop src="videos/space.mp4">
+        Your browser doesn't support videos.
+      </video>
+    </p>
+  </body>
 </html>
