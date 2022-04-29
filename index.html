@@ -15,11 +15,9 @@
         width: 200px;
         border-radius: 100px;
         object-fit: cover;
-        float: left;
-        margin-right: 10px;
       }
-      video {
-        width: 400px;
+      video#po {
+        width: 600px;
         border-radius: 10px;
       }
       .description {
@@ -42,6 +40,13 @@
       }
       .highlight {
         background-color: yellowgreen;
+      }
+      a:hover,
+      a:focus {
+        color: sandybrown;
+      }
+      ::selection {
+        background-color: sandybrown;
       }
     </style>
   </head>
@@ -80,7 +85,7 @@
       <a href="about.html">About Me</a>
       <a href="structuring.html">Click me to see HTML structuring</a>
       <a href="typesofstyling.html">Click me to see CSS styling</a>
-      <video controls autoplay loop src="videos/space.mp4">
+      <video id="po" controls autoplay loop src="videos/minecraft.mp4">
         Your browser doesn't support videos.
       </video>
     </p>
