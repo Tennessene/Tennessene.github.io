@@ -1,0 +1,13 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2022-02-11 18:09:55 -0600",
+      "minecraft:river": "2022-02-11 18:10:46 -0600",
+      "minecraft:stony_shore": "2022-02-11 18:11:57 -0600",
+      "minecraft:forest": "2022-02-11 18:11:50 -0600",
+      "minecraft:old_growth_birch_forest": "2022-02-11 18:10:47 -0600"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}

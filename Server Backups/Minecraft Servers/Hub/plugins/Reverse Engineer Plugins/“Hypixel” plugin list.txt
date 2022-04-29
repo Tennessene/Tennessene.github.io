@@ -1,0 +1,21 @@
+ScreamingBedwars
+Citizens
+CitizensCMD
+EasyWarp
+HolographicDisplays
+IridiumSkyblock
+Multiverse-core
+NoCheatsPlus
+OldPVP
+SBAHypixelify
+ServerSelectorX
+SimpleFlyPlugin
+SkywarsRel
+SuperLobby
+SuperVanish
+Vault
+Via Backwards
+Via Rewind
+Via Version
+WorldEdit
+WorldGuard

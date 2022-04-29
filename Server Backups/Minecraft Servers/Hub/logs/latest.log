@@ -1,0 +1,374 @@
+[15:56:02] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:56:04] [Worker-Main-1/INFO]: Loaded 7 recipes
+[15:56:05] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[15:56:05] [Server thread/INFO]: Loading properties
+[15:56:05] [Server thread/INFO]: This server is running Paper version git-Paper-313 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: 6f5e6c6)
+[15:56:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:56:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:56:05] [Server thread/INFO]: Default game type: SURVIVAL
+[15:56:05] [Server thread/INFO]: Generating keypair
+[15:56:05] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[15:56:05] [Server thread/INFO]: Using default channel type
+[15:56:05] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[15:56:05] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[15:56:05] [Server thread/ERROR]: [STDERR] [org.bukkit.craftbukkit.v1_18_R2.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[15:56:08] [Server thread/WARN]: Legacy plugin BossBar v1.0 does not specify an api-version.
+[15:56:09] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v2.1.3-SNAPSHOT-166;e294245
+[15:56:09] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@28f5553c]
+[15:56:09] [Server thread/INFO]: [BossBar] Loading BossBar v1.0
+[15:56:09] [Server thread/INFO]: [LobbyManager] Loading LobbyManager v1.0
+[15:56:09] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.2.1
+[15:56:09] [Server thread/INFO]: [ViaVersion] ViaVersion 4.2.1 is now loaded, injecting!
+[15:56:09] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[15:56:09] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[15:56:09] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[15:56:09] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[15:56:09] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[15:56:09] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[15:56:09] [Via-Mappingloader-6/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[15:56:10] [Via-Mappingloader-7/INFO]: [ViaVersion] Loading 1.17 -> 1.18 mappings...
+[15:56:10] [Server thread/INFO]: [LobbyScoreboard] Loading LobbyScoreboard v1.0
+[15:56:10] [Server thread/INFO]: [ACSecurity] Loading ACSecurity v1.0
+[15:56:10] [Server thread/INFO]: [floodgate] Loading floodgate v2.1.0-SNAPSHOT
+[15:56:10] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[15:56:10] [Server thread/INFO]: [floodgate] Took 485ms to boot Floodgate
+[15:56:10] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.2.0
+[15:56:10] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[15:56:10] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.10 -> 1.9.4 mappings...
+[15:56:10] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.11 -> 1.10 mappings...
+[15:56:10] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.12 -> 1.11 mappings...
+[15:56:10] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.13 -> 1.12 mappings...
+[15:56:10] [Via-Mappingloader-7/INFO]: [ViaBackwards] Loading 1.13.2 -> 1.13 mappings...
+[15:56:10] [Via-Mappingloader-7/INFO]: [ViaBackwards] Loading 1.14 -> 1.13.2 mappings...
+[15:56:10] [Via-Mappingloader-6/INFO]: [ViaBackwards] Loading 1.15 -> 1.14 mappings...
+[15:56:10] [Via-Mappingloader-6/INFO]: [ViaBackwards] Loading 1.16 -> 1.15 mappings...
+[15:56:10] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.16.2 -> 1.16 mappings...
+[15:56:10] [Via-Mappingloader-7/INFO]: [ViaBackwards] Loading 1.17 -> 1.16.2 mappings...
+[15:56:10] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.18 -> 1.17 mappings...
+[15:56:10] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.1-b861
+[15:56:10] [Server thread/INFO]: [NPCManager] Loading NPCManager v1.0
+[15:56:10] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.8.0
+[15:56:11] [Server thread/INFO]: [UpdateChecker] Loading UpdateChecker v1.0
+[15:56:11] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v2.0.2
+[15:56:11] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.0
+[15:56:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:56:11] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.1.3-SNAPSHOT-166;e294245
+[15:56:11] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[15:56:11] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[15:56:11] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[15:56:11] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[15:56:12] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_18_R2.PaperweightFaweAdapter as the Bukkit adapter
+[15:56:13] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.8.0
+[15:56:13] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[15:56:13] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v2.0.2
+[15:56:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:56:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:56:13] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[15:56:13] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[15:56:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:56:13] [Server thread/INFO]: Preparing level "world"
+[15:56:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:56:14] [Server thread/INFO]: Time elapsed: 256 ms
+[15:56:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:56:14] [Server thread/INFO]: Time elapsed: 164 ms
+[15:56:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:56:14] [Server thread/INFO]: Time elapsed: 68 ms
+[15:56:14] [Server thread/INFO]: [BossBar] Enabling BossBar v1.0*
+[15:56:14] [Server thread/INFO]: [LobbyManager] Enabling LobbyManager v1.0
+[15:56:14] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.2.1
+[15:56:14] [Server thread/INFO]: [LobbyScoreboard] Enabling LobbyScoreboard v1.0
+[15:56:14] [Server thread/INFO]: [ACSecurity] Enabling ACSecurity v1.0
+[15:56:14] [Server thread/INFO]: [floodgate] Enabling floodgate v2.1.0-SNAPSHOT
+[15:56:14] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.2.0
+[15:56:14] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.1-b861
+[15:56:14] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.1-b861" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[15:56:14] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[15:56:14] [Server thread/INFO]: Preparing start region for dimension minecraft:experimenting
+[15:56:14] [Server thread/INFO]: Time elapsed: 103 ms
+[15:56:14] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[15:56:14] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[15:56:14] [Server thread/INFO]: [Multiverse-Core] Version 4.3.1-b861 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[15:56:14] [Server thread/INFO]: [NPCManager] Enabling NPCManager v1.0
+[15:56:15] [Server thread/INFO]: [UpdateChecker] Enabling UpdateChecker v1.0
+[15:56:15] [Paper RegionFile IO Thread/ERROR]: Chunk [-8, -5] stream is truncated: expected 1010792556 but read 241659
+[15:56:15] [Server thread/INFO]: [UpdateChecker] §aYour Paper software is up to date.
+[15:56:15] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.0
+[15:56:16] [Server thread/INFO]: Running delayed init tasks
+[15:56:16] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.18.2 (758)
+[15:56:16] [Server thread/WARN]: java.lang.ClassNotFoundException: net.minecraft.server.v1_18_R2.BlockWaterLily
+[15:56:16] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:151)
+[15:56:16] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:103)
+[15:56:16] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+[15:56:16] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[15:56:16] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:375)
+[15:56:16] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.injector.NMSReflection.getNMSClass(NMSReflection.java:15)
+[15:56:16] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.injector.BoundingBoxFixer.fixLilyPad(BoundingBoxFixer.java:15)
+[15:56:16] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.BukkitPlugin$1.run(BukkitPlugin.java:38)
+[15:56:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101)
+[15:56:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483)
+[15:56:16] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1172)
+[15:56:16] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[15:56:16] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[15:56:16] [Server thread/INFO]: [ViaRewind-Legacy-Support] [STDOUT] Could not fix lily pad bounding box.
+[15:56:16] [Server thread/WARN]: Nag author(s): '[Gerrygames]' of 'ViaRewind-Legacy-Support' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[15:56:16] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "java.lang.Class.getName()" because "clazz" is null
+[15:56:16] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.reflection.ReflectionAPI.getField(ReflectionAPI.java:27)
+[15:56:16] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.reflection.ReflectionAPI.getFieldAccessible(ReflectionAPI.java:45)
+[15:56:16] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.injector.BoundingBoxFixer.fixLilyPad(BoundingBoxFixer.java:16)
+[15:56:16] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.BukkitPlugin$1.run(BukkitPlugin.java:38)
+[15:56:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101)
+[15:56:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483)
+[15:56:16] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1172)
+[15:56:16] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[15:56:16] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[15:56:16] [Server thread/WARN]: java.lang.ClassNotFoundException: net.minecraft.server.v1_18_R2.BlockLadder
+[15:56:16] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:151)
+[15:56:16] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:103)
+[15:56:16] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+[15:56:16] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[15:56:16] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:375)
+[15:56:16] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.injector.NMSReflection.getNMSClass(NMSReflection.java:15)
+[15:56:16] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.injector.BoundingBoxFixer.fixLadder(BoundingBoxFixer.java:26)
+[15:56:16] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.BukkitPlugin$1.run(BukkitPlugin.java:40)
+[15:56:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101)
+[15:56:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483)
+[15:56:16] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1172)
+[15:56:16] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[15:56:16] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[15:56:16] [Server thread/INFO]: [ViaRewind-Legacy-Support] [STDOUT] Could not fix ladder bounding box.
+[15:56:16] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "java.lang.Class.getName()" because "clazz" is null
+[15:56:16] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.reflection.ReflectionAPI.getField(ReflectionAPI.java:27)
+[15:56:16] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.reflection.ReflectionAPI.getFieldAccessible(ReflectionAPI.java:45)
+[15:56:16] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.injector.BoundingBoxFixer.fixLadder(BoundingBoxFixer.java:42)
+[15:56:16] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.BukkitPlugin$1.run(BukkitPlugin.java:40)
+[15:56:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101)
+[15:56:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483)
+[15:56:16] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1172)
+[15:56:16] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[15:56:16] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[15:56:16] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[15:56:16] [Server thread/INFO]: Done (10.964s)! For help, type "help"
+[15:56:16] [Server thread/INFO]: Timings Reset
+[15:56:30] [User Authenticator #1/INFO]: UUID of player MasterSlayer is b71dc503-7cbc-4ef4-ba30-ab8f19d5d3c5
+[15:56:30] [Server thread/INFO]: Welcome back MasterSlayer!
+[15:56:30] [Server thread/INFO]: MasterSlayer[/127.0.0.1:60103] logged in with entity id 83 at ([world]-3462.215198988021, 86.49136930445232, 2556.5492582600355)
+[15:56:37] [Server thread/INFO]: MasterSlayer issued server command: /snap list
+[15:56:44] [Server thread/INFO]: MasterSlayer issued server command: /snap sel 1
+[15:56:54] [Server thread/INFO]: MasterSlayer issued server command: //pos1
+[15:57:01] [Server thread/INFO]: MasterSlayer issued server command: //pos2
+[15:57:04] [Server thread/INFO]: MasterSlayer issued server command: //restore
+[15:57:04] [ForkJoinPool-5-worker-1/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_18_R2.PaperweightStarlightRelighterFactory as relighter factory.
+[15:57:04] [ForkJoinPool-5-worker-1/INFO]: WorldEdit: Using com.sk89q.worldedit.world.storage.ZippedMcRegionChunkStore for loading snapshot 'D:\Test\world\2022-03-15-03-00-00.zip'
+[16:00:38] [Server thread/INFO]: MasterSlayer issued server command: //restore
+[16:00:55] [Server thread/INFO]: MasterSlayer issued server command: //snap
+[16:01:00] [Server thread/INFO]: MasterSlayer issued server command: //snap list
+[16:01:07] [Server thread/INFO]: MasterSlayer issued server command: //snap list
+[16:01:16] [Server thread/INFO]: MasterSlayer issued server command: //snap list
+[16:01:16] [ForkJoinPool-5-worker-3/INFO]: WorldEdit found no snapshots: looked in: D:\Test
+[16:01:17] [Server thread/INFO]: MasterSlayer issued server command: //snap list
+[16:01:17] [ForkJoinPool-5-worker-3/INFO]: WorldEdit found no snapshots: looked in: D:\Test
+[16:01:33] [Server thread/INFO]: MasterSlayer issued server command: //snap list
+[16:01:33] [ForkJoinPool-5-worker-3/INFO]: WorldEdit found no snapshots: looked in: D:\Test
+[16:02:17] [Server thread/INFO]: MasterSlayer issued server command: //snap list
+[16:02:17] [ForkJoinPool-5-worker-3/INFO]: WorldEdit found no snapshots: looked in: D:\Test
+[16:03:03] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[16:03:03] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[16:03:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:03:03] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:03:03] [Server thread/INFO]: [ViaRewind-Legacy-Support] Disabling ViaRewind-Legacy-Support v1.4.0
+[16:03:03] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v2.0.2
+[16:03:03] [Server thread/INFO]: [UpdateChecker] Disabling UpdateChecker v1.0
+[16:03:03] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.8.0
+[16:03:03] [Server thread/INFO]: [NPCManager] Disabling NPCManager v1.0
+[16:03:03] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.1-b861
+[16:03:03] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.2.0
+[16:03:03] [Server thread/INFO]: [floodgate] Disabling floodgate v2.1.0-SNAPSHOT
+[16:03:03] [Server thread/INFO]: [ACSecurity] Disabling ACSecurity v1.0
+[16:03:03] [Server thread/INFO]: [LobbyScoreboard] Disabling LobbyScoreboard v1.0
+[16:03:03] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.2.1
+[16:03:03] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[16:03:03] [Server thread/INFO]: [LobbyManager] Disabling LobbyManager v1.0
+[16:03:03] [Server thread/INFO]: [BossBar] Disabling BossBar v1.0
+[16:03:03] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.1.3-SNAPSHOT-166;e294245
+[16:03:03] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[16:03:04] [Server thread/INFO]: Loaded 7 recipes
+[16:03:04] [Server thread/WARN]: Legacy plugin BossBar v1.0 does not specify an api-version.
+[16:03:05] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v2.1.3-SNAPSHOT-166;e294245
+[16:03:05] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5d8e404e]
+[16:03:05] [Server thread/INFO]: [BossBar] Loading BossBar v1.0
+[16:03:05] [Server thread/INFO]: [LobbyManager] Loading LobbyManager v1.0
+[16:03:05] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.2.1
+[16:03:05] [Server thread/INFO]: [ViaVersion] ViaVersion 4.2.1 is now loaded, injecting!
+[16:03:05] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, we're going to kick all the players... because otherwise we'll crash because of ProtocolLib.
+[16:03:05] [Server thread/INFO]: MasterSlayer lost connection: Server reload, please rejoin!
+[16:03:05] [Server thread/INFO]: MasterSlayer left the game
+[16:03:05] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[16:03:05] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[16:03:05] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[16:03:05] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[16:03:05] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[16:03:05] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[16:03:05] [Via-Mappingloader-6/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[16:03:05] [Server thread/INFO]: [LobbyScoreboard] Loading LobbyScoreboard v1.0
+[16:03:05] [Server thread/INFO]: [ACSecurity] Loading ACSecurity v1.0
+[16:03:05] [Server thread/INFO]: [floodgate] Loading floodgate v2.1.0-SNAPSHOT
+[16:03:05] [Via-Mappingloader-7/INFO]: [ViaVersion] Loading 1.17 -> 1.18 mappings...
+[16:03:06] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[16:03:06] [Server thread/INFO]: [floodgate] Took 293ms to boot Floodgate
+[16:03:06] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.2.0
+[16:03:06] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[16:03:06] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.10 -> 1.9.4 mappings...
+[16:03:06] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.11 -> 1.10 mappings...
+[16:03:06] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.12 -> 1.11 mappings...
+[16:03:06] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.13 -> 1.12 mappings...
+[16:03:06] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.13.2 -> 1.13 mappings...
+[16:03:06] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.14 -> 1.13.2 mappings...
+[16:03:06] [Via-Mappingloader-7/INFO]: [ViaBackwards] Loading 1.15 -> 1.14 mappings...
+[16:03:06] [Via-Mappingloader-6/INFO]: [ViaBackwards] Loading 1.16 -> 1.15 mappings...
+[16:03:06] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.16.2 -> 1.16 mappings...
+[16:03:06] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.17 -> 1.16.2 mappings...
+[16:03:06] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.18 -> 1.17 mappings...
+[16:03:06] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.1-b861
+[16:03:06] [Server thread/INFO]: [NPCManager] Loading NPCManager v1.0
+[16:03:06] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.8.0
+[16:03:07] [Server thread/INFO]: [UpdateChecker] Loading UpdateChecker v1.0
+[16:03:07] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v2.0.2
+[16:03:07] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.0
+[16:03:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:03:07] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.1.3-SNAPSHOT-166;e294245
+[16:03:07] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[16:03:07] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[16:03:07] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[16:03:07] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[16:03:07] [Server thread/WARN]: Server reload detected. This may cause various issues with FastAsyncWorldEdit and dependent plugins. Reloading the server is not advised.
+[16:03:07] [Server thread/WARN]: For more information why reloading is bad, see https://madelinemiller.dev/blog/problem-with-reload/
+[16:03:07] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_18_R2.PaperweightFaweAdapter as the Bukkit adapter
+[16:03:08] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.8.0
+[16:03:08] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[16:03:08] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v2.0.2
+[16:03:08] [Server thread/INFO]: [BossBar] Enabling BossBar v1.0*
+[16:03:08] [Server thread/INFO]: [LobbyManager] Enabling LobbyManager v1.0
+[16:03:08] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.2.1
+[16:03:08] [Server thread/INFO]: [LobbyScoreboard] Enabling LobbyScoreboard v1.0
+[16:03:08] [Server thread/INFO]: [ACSecurity] Enabling ACSecurity v1.0
+[16:03:08] [Server thread/INFO]: [floodgate] Enabling floodgate v2.1.0-SNAPSHOT
+[16:03:08] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
+[16:03:08] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
+[16:03:08] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
+[16:03:08] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
+[16:03:08] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
+[16:03:08] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:105)
+[16:03:08] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:88)
+[16:03:08] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:121)
+[16:03:08] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlatform.enable(SpigotPlatform.java:48)
+[16:03:08] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:66)
+[16:03:08] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
+[16:03:08] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370)
+[16:03:08] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:541)
+[16:03:08] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.CraftServer.enablePlugin(CraftServer.java:560)
+[16:03:08] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.CraftServer.enablePlugins(CraftServer.java:474)
+[16:03:08] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.CraftServer.reload(CraftServer.java:1016)
+[16:03:08] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:909)
+[16:03:08] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54)
+[16:03:08] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[16:03:08] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.CraftServer.dispatchCommand(CraftServer.java:906)
+[16:03:08] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.CraftServer.dispatchServerCommand(CraftServer.java:869)
+[16:03:08] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.be(DedicatedServer.java:510)
+[16:03:08] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:484)
+[16:03:08] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1455)
+[16:03:08] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1225)
+[16:03:08] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[16:03:08] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[16:03:08] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.2.0
+[16:03:08] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.1-b861
+[16:03:08] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.1-b861" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[16:03:08] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[16:03:08] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[16:03:08] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[16:03:08] [Server thread/INFO]: [Multiverse-Core] Version 4.3.1-b861 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[16:03:08] [Server thread/INFO]: [NPCManager] Enabling NPCManager v1.0
+[16:03:08] [Server thread/INFO]: [UpdateChecker] Enabling UpdateChecker v1.0
+[16:03:08] [Server thread/INFO]: [UpdateChecker] §aYour Paper software is up to date.
+[16:03:08] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.0
+[16:03:09] [Server thread/INFO]: CONSOLE: Reload complete.
+[16:03:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5652ms or 113 ticks behind
+[16:03:09] [Server thread/INFO]: Timings Reset
+[16:03:09] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.18.2 (758)
+[16:03:09] [Server thread/WARN]: java.lang.ClassNotFoundException: net.minecraft.server.v1_18_R2.BlockWaterLily
+[16:03:09] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:151)
+[16:03:09] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:103)
+[16:03:09] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+[16:03:09] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[16:03:09] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:375)
+[16:03:09] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.injector.NMSReflection.getNMSClass(NMSReflection.java:15)
+[16:03:09] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.injector.BoundingBoxFixer.fixLilyPad(BoundingBoxFixer.java:15)
+[16:03:09] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.BukkitPlugin$1.run(BukkitPlugin.java:38)
+[16:03:09] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101)
+[16:03:09] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483)
+[16:03:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1531)
+[16:03:09] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:483)
+[16:03:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1455)
+[16:03:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1225)
+[16:03:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[16:03:09] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[16:03:09] [Server thread/INFO]: [ViaRewind-Legacy-Support] [STDOUT] Could not fix lily pad bounding box.
+[16:03:09] [Server thread/WARN]: Nag author(s): '[Gerrygames]' of 'ViaRewind-Legacy-Support' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[16:03:09] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "java.lang.Class.getName()" because "clazz" is null
+[16:03:09] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.reflection.ReflectionAPI.getField(ReflectionAPI.java:27)
+[16:03:09] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.reflection.ReflectionAPI.getFieldAccessible(ReflectionAPI.java:45)
+[16:03:09] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.injector.BoundingBoxFixer.fixLilyPad(BoundingBoxFixer.java:16)
+[16:03:09] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.BukkitPlugin$1.run(BukkitPlugin.java:38)
+[16:03:09] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101)
+[16:03:09] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483)
+[16:03:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1531)
+[16:03:09] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:483)
+[16:03:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1455)
+[16:03:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1225)
+[16:03:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[16:03:09] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[16:03:09] [Server thread/WARN]: java.lang.ClassNotFoundException: net.minecraft.server.v1_18_R2.BlockLadder
+[16:03:09] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:151)
+[16:03:09] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:103)
+[16:03:09] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+[16:03:09] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[16:03:09] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:375)
+[16:03:09] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.injector.NMSReflection.getNMSClass(NMSReflection.java:15)
+[16:03:09] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.injector.BoundingBoxFixer.fixLadder(BoundingBoxFixer.java:26)
+[16:03:09] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.BukkitPlugin$1.run(BukkitPlugin.java:40)
+[16:03:09] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101)
+[16:03:09] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483)
+[16:03:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1531)
+[16:03:09] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:483)
+[16:03:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1455)
+[16:03:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1225)
+[16:03:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[16:03:09] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[16:03:09] [Server thread/INFO]: [ViaRewind-Legacy-Support] [STDOUT] Could not fix ladder bounding box.
+[16:03:09] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "java.lang.Class.getName()" because "clazz" is null
+[16:03:09] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.reflection.ReflectionAPI.getField(ReflectionAPI.java:27)
+[16:03:09] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.reflection.ReflectionAPI.getFieldAccessible(ReflectionAPI.java:45)
+[16:03:09] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.injector.BoundingBoxFixer.fixLadder(BoundingBoxFixer.java:42)
+[16:03:09] [Server thread/WARN]: 	at viarewind-legacy-support-1.4.0.jar//de.gerrygames.viarewind.legacysupport.BukkitPlugin$1.run(BukkitPlugin.java:40)
+[16:03:09] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101)
+[16:03:09] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483)
+[16:03:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1531)
+[16:03:09] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:483)
+[16:03:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1455)
+[16:03:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1225)
+[16:03:09] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[16:03:09] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[16:03:09] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[16:03:13] [User Authenticator #2/INFO]: UUID of player MasterSlayer is b71dc503-7cbc-4ef4-ba30-ab8f19d5d3c5
+[16:03:13] [Server thread/INFO]: Welcome back MasterSlayer!
+[16:03:13] [Server thread/INFO]: MasterSlayer[/127.0.0.1:60125] logged in with entity id 214 at ([world]-3476.020097331377, 87.65574487337672, 2531.904439515238)
+[16:03:21] [Server thread/INFO]: MasterSlayer issued server command: //snap
+[16:03:25] [Server thread/INFO]: MasterSlayer issued server command: //snap list
+[16:03:25] [ForkJoinPool-10-worker-1/INFO]: WorldEdit found no snapshots: looked in: D:\Test
+[16:03:36] [Server thread/INFO]: MasterSlayer issued server command: //snap list
+[16:03:43] [Server thread/INFO]: MasterSlayer issued server command: //snap sel 1
+[16:03:49] [Server thread/INFO]: MasterSlayer issued server command: //restore
+[16:03:49] [ForkJoinPool-10-worker-1/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_18_R2.PaperweightStarlightRelighterFactory as relighter factory.
+[16:03:57] [Server thread/INFO]: MasterSlayer issued server command: //pos1
+[16:04:04] [Server thread/INFO]: MasterSlayer issued server command: //pos2
+[16:04:06] [Server thread/INFO]: MasterSlayer issued server command: //restore
+[16:04:06] [ForkJoinPool-10-worker-1/INFO]: WorldEdit: Using com.sk89q.worldedit.world.storage.ZippedMcRegionChunkStore for loading snapshot 'D:\Test\world\2022-03-15-03-00-00.zip'

@@ -1,19 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-    <link rel="stylesheet" href="externalstylesheet.css">
+    <link rel="stylesheet" href="styles.css" />
     <style>
-        #first {
-            color: brown;
-        }
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+      #first {
+        color: brown;
+      }
+      .box {
+        width: 200px;
+        height: 200px;
+        background-color: gold;
+        border: 10px solid orange;
+        overflow: auto;
+      }
     </style>
-    </head>
-<body>
-    <p id="first">Lorem ipsum dolor sit.</p>
-    <p>Lorem ipsum dolor sit amet consectetur.</p>
-</body>
+  </head>
+  <body>
+    <div class="box">
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic explicabo
+        saepe debitis praesentium quos? Ipsa, architecto adipisci suscipit
+        pariatur perspiciatis quia dolorem neque rem odio, illum dolor
+        voluptatem veritatis ipsam non, quae repellat quod est reprehenderit
+        possimus. Modi, esse! Obcaecati.
+      </p>
+    </div>
+  </body>
 </html>

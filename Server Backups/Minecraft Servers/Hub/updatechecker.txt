@@ -1,0 +1,60 @@
+package me.acclashcorporation.updatechecker;
+
+import org.bukkit.Bukkit;
+import org.bukkit.plugin.java.JavaPlugin;
+
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.net.URL;
+import java.nio.channels.Channels;
+import java.nio.channels.ReadableByteChannel;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
+import java.util.Scanner;
+
+public final class UpdateChecker extends JavaPlugin {
+
+    @Override
+    public void onEnable() {
+        try {
+            java.net.URL url = new URL("https://papermc.io/api/v2/projects/paper/versions/1.18.1");
+            Scanner sc = new Scanner(url.openStream());
+            StringBuffer sb = new StringBuffer();
+            while (sc.hasNext()) {
+                sb.append(sc.next());
+            }
+            String result = sb.toString();
+            result = result.replaceAll("<[^>]*>", "");
+            System.out.println("Contents of the paper versions: " + result);
+            String[] testArray = result.split(", ");
+
+            int max = Integer.MIN_VALUE, maxIndex = 0;
+
+            for (int i = 0; i < testArray.length; i++) {
+                if (Integer.parseInt(testArray[i]) > max) {
+                    max = Integer.parseInt(testArray[i]);
+                    maxIndex = i;
+                    getLogger().info("Paper version: " + maxIndex);
+                }
+            }
+            String version = Bukkit.getVersion();
+            String numberOnly = version.replaceAll("[^0-9]", "");
+            String finalversion = numberOnly.substring(0, Math.min(numberOnly.length(), 3));
+            getLogger().info(finalversion);
+            }
+            if (finalversion == maxIndex) {
+                System.out.println("You have the latest Paper software.");
+            } else {
+                System.out.println("You don't have the latest Paper software version updating it now...");
+                URL website = new URL("https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/" + max + "/downloads/paper-1.18.1-" + max + ".jar");
+                ReadableByteChannel rbc = Channels.newChannel(website.openStream());
+                FileOutputStream fos = new FileOutputStream("paper-1.18.1-" + max + ".jar");
+                fos.getChannel().transferFrom(rbc, 0, Long.MAX_VALUE);
+            }
+
+        }catch (IOException ioException) {
+                System.out.println("No internet: Unable to retrieve Paper versions.");
+        }
+    }
+}
