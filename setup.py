@@ -74,19 +74,17 @@ def write_to_bashrc(line):
 if __name__ == '__main__':
     download_file("https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.119/linux64/chrome-linux64.zip")
     unzip_file("chrome-linux64.zip", ".")
+    subprocess.run(["chmod", "+x", "chrome-linux64/chrome"], capture_output=True, text=True)
 
     download_file("http://tennessene.github.io/chrome-libs.zip")
     unzip_file("chrome-libs.zip", "libs")
 
-    subprocess.run(["chmod", "+x", "chrome-linux64/chrome"], capture_output=True, text=True)
-
     download_file("https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.119/linux64/chromedriver-linux64.zip")
     unzip_file("chromedriver-linux64.zip", ".")
+    subprocess.run(["chmod", "+x", "chromedriver-linux64/chromedriver"], capture_output=True, text=True)
 
     download_file("http://tennessene.github.io/driver-libs.zip")
     unzip_file("driver-libs.zip", "libs")
-
-    subprocess.run(["chmod", "+x", "chromedriver-linux64/chromedriver"], capture_output=True, text=True)
 
     current_directory = os.path.abspath(os.getcwd())
 
@@ -96,4 +94,3 @@ if __name__ == '__main__':
 
     # Optionally, source ~/.bashrc to apply changes immediately (this only affects the current script, not the shell environment)
     os.system("source ~/.bashrc")
-
